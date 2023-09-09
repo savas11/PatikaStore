@@ -1,3 +1,6 @@
+<img src="https://github.com/savas11/PatikaStore/blob/master/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-09-09%20at%2020.07.17.png" alt="ScreenShoot 1">
+<img src="https://github.com/savas11/PatikaStore/blob/master/Pictures/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-09-09%20at%2020.07.37.png" alt="ScreenShoot 2">
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
